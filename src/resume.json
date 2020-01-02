@@ -1,0 +1,229 @@
+{
+  "basics": {
+    "name": "Otieno Frank Omullo",
+    "label": "Computer Science Student",
+    "picture": "images/frank.jpg",
+    "x_title": "Hey There! Thanks for checking this out.",
+    "summary": "I'm an undergrad student at Cornell University interested in all things tech. My skills encompass both frontend and backend stack. Main interests are enterprise apps, automation and machine learning",
+    "location": {
+      "country": "United States",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "DEV Community",
+        "username": "omullo",
+        "url": "https://dev.to/omullo",
+        "x_icon": "fab fa-2x fa-dev"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Omullo",
+        "url": "https://www.linkedin.com/in/frank-omullo/",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "omullo",
+        "url": "https://github.com/omullo",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cornell IT",
+      "position": "Software Engineering Intern- Enterprise Apps",
+      "website": "https://it.cornell.edu/",
+      "startDate": "2019-06-01",
+      "endDate": "2019-08-10",
+      "summary": "I interned with the department of Data Infrastructure and Business Intelligence supporting data integration, business intelligence and cloudification. Built a data integration platform on Funddriver using Dell Boomi for Cornell's $7.2B endowment investments. I also built a database dashboard to manage Vet College's Utilities spending using SQL models,OBIEE and Tableau. I also helped analyze campus networks and generate alerts to improve efficiency of cybersecurity threats using Zeek, Waterslide and Network sniffer Software.",
+      "highlights": []
+    },
+    {
+      "company": "Uber",
+      "position": "Career Prep Fellow",
+      "website": "https:uber.com",
+      "startDate": "2019-04-01",
+      "endDate": "2019-12-07",
+      "summary": "Software Engineering Intern, Uber Career Prep Fellowship program",
+      "highlights": []
+    },
+    {
+      "company": "Cornell Information Sciences",
+      "position": "Student System Admin, Cornell Information Technologies- arXiv",
+      "website": "https:arxiv.org",
+      "startDate": "2018-12-01",
+      "endDate": "",
+      "summary": "Arxiv infra team and submissions reviewer",
+      "highlights": []
+    },
+    {
+      "company": "Space Systems Design Studio",
+      "position": "Software and Electrical Systems Engineer",
+      "website": "https://www.spacecraftresearch.com/",
+      "startDate": "2019-08-22",
+      "endDate": "",
+      "summary": "Spacecraft research under Prof. Mason Peck. Working on CisLunar project for the NASA Artemis 1 mission",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cornell University",
+      "area": "Computer Science and Interdisciplinary Studies",
+      "studyType": "Bachelor",
+      "startDate": "2017-08-15",
+      "endDate": "2021-05-27",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Machine Learning",
+        "Algorithms",
+        "Natural Language Processing"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Docker",
+      "level": 90,
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": 80,
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "level": 65,
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Containers",
+      "level": 65,
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": 60,
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Troubleshooting",
+      "level": 95,
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": 50,
+      "keywords": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": 95,
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": "Design Patterns",
+      "level": 70,
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": 50,
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": 85,
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": "REST API",
+      "level": 45,
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": "Unit Testing",
+      "level": 80,
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": 80,
+      "keywords": [
+        "Software Developer"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Swahili",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "conversational"
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travel bug",
+      "x_icon": "fa-globe-africa"
+    },
+    {
+      "name": "Dog lover",
+      "x_icon": "fa-dog"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Rugby",
+      "x_icon": "fa-rugby"
+    },
+    {
+      "name": "Live in the now",
+      "x_icon": "fa-brain"
+    }
+  ]
+}
